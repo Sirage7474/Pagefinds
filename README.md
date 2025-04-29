@@ -11,8 +11,8 @@ This is a simple script written in Bash that performs an OSINT (Open Source Inte
 - Results are saved to a text file named after the username.
 
 ## Tested on:
-Kali
-Termux
+- Kali
+- Termux
 
 ## Requirements
 
