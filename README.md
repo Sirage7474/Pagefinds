@@ -21,7 +21,7 @@ This is a simple script written in Bash that performs an OSINT (Open Source Inte
 ## Installation
 
 ```
-git clone https://github.com/Sirage7474/Pagefinds
+git clone https://github.com/Sirage7474/Pagefinds.git
 ```
 ```
 bash page.sh
