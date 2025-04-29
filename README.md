@@ -10,6 +10,10 @@ This is a simple script written in Bash that performs an OSINT (Open Source Inte
 - Displays whether the username is found or not on each site.
 - Results are saved to a text file named after the username.
 
+## Tested on:
+Kali
+Termux
+
 ## Requirements
 
 - `git`
