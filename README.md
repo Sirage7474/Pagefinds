@@ -24,5 +24,8 @@ This is a simple script written in Bash that performs an OSINT (Open Source Inte
 git clone https://github.com/Sirage7474/Pagefinds.git
 ```
 ```
+cd Pagefinds
+```
+```
 bash page.sh
 ```
