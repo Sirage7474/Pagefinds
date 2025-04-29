@@ -34,7 +34,7 @@ echo "██╔═══╝ ██╔══██║██║   ██║██�
 echo "██║     ██║  ██║╚██████╔╝███████╗"
 echo "╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝"
 echo -e "${CYAN}
-Username OSINT Tool${NC}\n""${GREEN}Version v1 by Sirage7474${NC}\n"
+Rage OSINT Tool${NC}\n""${GREEN}Version v1 by Sirage7474${NC}\n"
 
 read -p "Enter a username to search: " username
 echo -e "\nSearching for: ${BLUE}$username${NC}\n"
